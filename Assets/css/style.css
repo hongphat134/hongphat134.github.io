@@ -1,0 +1,18 @@
+header{
+	margin-bottom: 2rem;
+}
+
+footer{
+	margin-top: 2rem;
+}
+
+.header-top,.footer-bot{
+	background: rgb(0,0,0);
+	color:lavender;
+}
+
+.footer-bot{
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+}
